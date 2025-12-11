@@ -1,0 +1,2 @@
+# Analyzing-and-Predicting-U.S.-Flight-Delays-through-Integration-of-Weather-Patterns
+The project entails combining U.S. airline data with weather data for data-driven analysis and prediction of flight delays. It constructs a dataset through PySpark, BigQuery, including data engineering workflows, exploratory analysis, feature engineering, model evaluation, and insights on operational and weather-related delay factors.
